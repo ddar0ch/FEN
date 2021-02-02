@@ -1,2 +1,3 @@
 # FEN
-Proyectos relacionados con mis estudios en FEN
+
+Antes al bajar un archivo que subían a la FEN, su nombre venía con la fecha y un montón de números de distintas longitudes en cada archivo. Este simple comando del shell zsh automáticamente detecta los archivos con estos números y los renombra quitándoselos. 
