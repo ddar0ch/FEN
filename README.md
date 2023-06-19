@@ -2,7 +2,7 @@ Diego Daroch
 Data Scientist
 
 Providencia  
-+56 9 5911 8030 / +1 305 814 8005  
++56 9 59** **** / +1 305 814 **** 
 
 Creative, curious and fast-learning Python programmer, with experience developing quick solutions for transforming, analysing, visualising, modelling and storing business related data. I love computers and automation.
 I'm looking forward to jump start a career as a Data Scientist. The challenges that I've faced in this role have been my favourite and I'm most passionate about.
